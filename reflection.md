@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Gabrielle Russo
+Sudent Email:  grusso01@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+I understood this assignment which was very validating. WHat I learned in class was so helpful for this assignments. I was able to define all of the apicall functions easily, since they are all pretty much identical. However, I had an issue with the first api call function, get_google_place_details. No matter what I did, the test didn't pass. I used a bunch of my 150 alotted API's and I got scared to keep going. I double checked that I had params instead of data since the input info gets put into the URL unlike the other functions. Nothing worked. I even got so desperate that I compared what I coded to the solution and it looks the exact same. I don't really understand why this is. It's making all of my other tests for the entire assignment fail since the entire assignment is based on the previous function/output, and all of that goes back to get_google_place_details, which failed its test. Regardless, the rest of the assignment went very smoothly. The instructions were very thorough and left no wiggle room for errors (I REALLY appreciate the thorough instructions and steps outlines in README).
